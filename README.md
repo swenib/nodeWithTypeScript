@@ -43,6 +43,6 @@ npm run start
 - create Heroku App and push
 
   ```
-  heroku create nodeWithTypeScript
+  heroku create node-with-ts
   git push heroku master
   ```
