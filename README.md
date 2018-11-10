@@ -1,5 +1,7 @@
 # A simple Node.js-App using TypeScript
 
+A server for the [Angular Tour of Heroes](https://angular.io/tutorial)
+
 ## Prerequisites
 
 - Install [Node.js](https://nodejs.org/en/download/)
